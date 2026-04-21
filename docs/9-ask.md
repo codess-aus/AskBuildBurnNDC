@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/0b4e5f6bfd5a64d1e7f731db853e113f836282b5/images/10-ask.png
+
 “Next up is Ask Mode, and I want to position it clearly: this is a judgment free space for learning.
 
 Because a lot of learning debt is not about intelligence, it is about social cost. You do not want to interrupt someone. You do not want to look behind. You do not want to ask the same question twice. So you stay quiet, you guess, and the gap gets bigger.
