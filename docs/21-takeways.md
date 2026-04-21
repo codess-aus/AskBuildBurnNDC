@@ -1,5 +1,4 @@
-Master Chief Sparkle, here is a closing speaker script for the final slide (about 45 to 60 seconds).
-
+https://github.com/codess-aus/AskBuildBurnNDC/blob/be6081259301dcbb162a3ffe855223810ca35c16/images/22-thrive.png
 
 “As we wrap up, I want to leave you with a simple message.
 
