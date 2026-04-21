@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/ccd09cfb5228ddf389e20db98d9970d850f52b61/images/13-agent.png
+
 “Alright, we have covered Plan Mode and Ask Mode. Now let’s meet Agent Mode.
 
 Agent Mode is what you use when the work is not a single question and not a single edit. It is multi step work that spans files, requires iteration, and usually includes some form of verification.
