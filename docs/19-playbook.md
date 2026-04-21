@@ -1,6 +1,6 @@
 ![Chapter 19 Hero](images/20-playbook.png)
 
-“This is your quick reference slide, because the same tool gives different superpowers depending on where you sit.
+This is your quick reference slide, because the same tool gives different superpowers depending on where you sit.
 
 For juniors and learners, the primary mode is Ask Mode.  
 You use it for debugging guidance, code explanations, and learning patterns. And the burnout mitigation is huge: it combats imposter syndrome and builds confidence without social cost. You can ask the question the moment you have it, instead of waiting, guessing, and spiraling.
@@ -15,4 +15,4 @@ And for engineering managers, the primary combo is Plan plus Agent.
 Plan creates clarity around requirements and tradeoffs. Agent helps with repeatable automation like checks, reviews, and guardrails. The burnout mitigation is reducing that ‘juggling too many people and fires’ feeling, and creating breathing room for coaching, not just reacting.
 
 So the takeaway is simple: match the mode to the moment, and match the moment to the person.  
-That is how you get productivity gains without creating a new kind of chaos.”
+That is how you get productivity gains without creating a new kind of chaos.

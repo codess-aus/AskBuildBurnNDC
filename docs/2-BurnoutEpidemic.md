@@ -1,6 +1,6 @@
 ![Chapter 2 Hero](images/2-burnout.png)
 
-“Before we talk about tactics, we need to name the problem.
+Before we talk about tactics, we need to name the problem.
 
 This is the crisis: burnout is not rare, it is common. This slide cites 76 percent of employees experiencing burnout. Even if your number is lower on your team, the direction is clear. People are tired, and it shows up in quality, retention, and how safe it feels to take risks.
 
@@ -23,4 +23,4 @@ And now there is AI anxiety, which adds uncertainty about skills, value, and job
 
 So if you have felt any of this, you are not broken. You are responding normally to an abnormal load.
 
-The rest of this talk is about one lever that helps across all of these: asking better questions to reduce uncertainty, reduce rework, and make the work feel more controllable. That is where ‘ask more’ becomes a burnout strategy, not just a communication tip.”
+The rest of this talk is about one lever that helps across all of these: asking better questions to reduce uncertainty, reduce rework, and make the work feel more controllable. That is where ‘ask more’ becomes a burnout strategy, not just a communication tip.

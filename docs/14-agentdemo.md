@@ -1,6 +1,6 @@
 ![Chapter 14 Hero](images/15-Agentdemo.png)
 
-“Alright, Demo 3 is called ‘The Fleet,’ and it is Agent Mode in action.
+Alright, Demo 3 is called ‘The Fleet,’ and it is Agent Mode in action.
 
 This demo is aimed at a very specific burnout driver: expanded scope and unmanageable workload. That moment where a request sounds reasonable, but the minute you start, you realize it touches everything.
 
@@ -18,7 +18,7 @@ And finally, I’ll deliberately let a test fail, because this is where agent mo
 
 Throughout the demo, watch for the control points. I can pause it, I can redirect it, and I approve the risky steps. It is a fleet of assistants, but you are still the captain.
 
-Alright, let’s switch to VS Code and run the fleet.”
+Alright, let’s switch to VS Code and run the fleet.
 
 ## Video Demonstration
 

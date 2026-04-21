@@ -1,6 +1,6 @@
 ![Chapter 16 Hero](images/17-waves.png)
 
-“This slide is about the evolution of AI assisted development, because the way we should use these tools depends on which wave we are in.
+This slide is about the evolution of AI assisted development, because the way we should use these tools depends on which wave we are in.
 
 Wave 1 is the pair programmer.  
 This is what most people think of first: inline suggestions, autocomplete, and chat in your IDE. The benefit is individual productivity, faster coding, and reduced context switching. It is great for keeping flow, but it is still mostly you doing the driving, one file at a time.
@@ -15,4 +15,4 @@ The key insight at the bottom is the important part. Each wave builds on the pre
 
 But rule zero still holds in every wave. You own the code. The higher the autonomy, the more you need clear constraints, good review habits, and strong feedback loops.
 
-Next, we will talk about what guardrails make wave 2 and wave 3 safe and boring, in the best possible way.”
+Next, we will talk about what guardrails make wave 2 and wave 3 safe and boring, in the best possible way.

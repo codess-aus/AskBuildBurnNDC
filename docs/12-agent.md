@@ -1,6 +1,6 @@
 ![Chapter 12 Hero](images/13-agent.png)
 
-“Alright, we have covered Plan Mode and Ask Mode. Now let’s meet Agent Mode.
+Alright, we have covered Plan Mode and Ask Mode. Now let’s meet Agent Mode.
 
 Agent Mode is what you use when the work is not a single question and not a single edit. It is multi step work that spans files, requires iteration, and usually includes some form of verification.
 
@@ -18,4 +18,4 @@ And fourth: surfacing security issues. Not by magically guaranteeing security, b
 
 Now, quick reminder from rule zero. You own the code. Agent mode can do a lot, but you still review every change, you run the tests, and you confirm the architecture is still sane.
 
-In the next demo, I’ll show what it looks like to hand a real, multi file task to agent mode, and how to keep it safe with tight constraints and clear acceptance criteria.”
+In the next demo, I’ll show what it looks like to hand a real, multi file task to agent mode, and how to keep it safe with tight constraints and clear acceptance criteria.

@@ -1,6 +1,6 @@
 ![Chapter 13 Hero](images/14-agentexamples.png)
 
-“This slide is here to make Agent Mode concrete.
+This slide is here to make Agent Mode concrete.
 
 Agent Mode is not just ‘write me some code.’ It is a workflow accelerator for the kinds of tasks senior engineers do all the time, the ones that are important, cross cutting, and honestly a bit exhausting.
 
@@ -20,4 +20,4 @@ This is not a magic security guarantee, but it is a proactive review partner. It
 
 And that is the bottom banner. You are always in control. Every tool invocation is visible. Commands require approval. There are undo capabilities. Agent mode works for you, not instead of you.
 
-Next, I’ll show a real example end to end so you can see what ‘in control’ looks like in practice.”
+Next, I’ll show a real example end to end so you can see what ‘in control’ looks like in practice.

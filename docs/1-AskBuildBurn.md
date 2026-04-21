@@ -1,6 +1,6 @@
 ![Chapter 1 Hero](images/1-askbuildburn.png)
 
-“Hi everyone, I’m Michelle Sandford. Thanks for being here at NDC Sydney.
+Hi everyone, I’m Michelle Sandford, Developer Engagement Lead for Microsoft. Thanks for being here at NDC Sydney.
 
 This talk is called ‘Ask More. Build Better. Burn Out Less.’ and it’s based on a simple idea: the fastest teams are not the ones that type the most, they’re the ones that reduce uncertainty early.
 
@@ -10,4 +10,4 @@ And the ‘burn out less’ part is just as practical. A lot of burnout is not c
 
 So today we’ll focus on concrete tactics: what to ask, when to ask it, and how to ask in a way that improves quality without slowing you down.
 
-Let’s get into it.”
+Let’s get into it.

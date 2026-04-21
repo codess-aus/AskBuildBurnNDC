@@ -1,6 +1,6 @@
 ![Chapter 21 Hero](images/22-thrive.png)
 
-“As we wrap up, I want to leave you with a simple message.
+As we wrap up, I want to leave you with a simple message.
 
 Build better. Support each other. Thrive.
 
@@ -12,17 +12,17 @@ this next era will not be the ones who never struggle. They will be the ones who
 So if you take one thing from this talk, let it be this three step mantra:
 Ask more. Build better. Burn out less.
 
-Thank you for your time. If you want to chat afterwards, compare notes on prompts, or talk about how to roll this out safely for a team, I’ll be around.”
+Thank you for your time. If you want to chat afterwards, compare notes on prompts, or talk about how to roll this out safely for a team, I’ll be around.
 
 Resources:
 
-https://github.com/github/awesome-copilot
-https://awesome-copilot.github.com/
-https://github.com/github/copilot-sdk
-https://cli.github.com/
-https://github.com/github/spec-kit
-https://awesome-copilot.github.com/learning-hub/
-https://github.github.com/gh-aw/
-https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification
+- [Awesome Copilot on GitHub](https://github.com/github/awesome-copilot)  
+-[Awesome Copilot Webpage](https://awesome-copilot.github.com/)  
+- [GitHub Copilot SDK - Add Agents to Anything](https://github.com/github/copilot-sdk)  
+- [GitHub Copilot CLI](https://cli.github.com/)  
+- [GitHub Spec-Kit](https://github.com/github/spec-kit)  
+- [GitHub Copilot CLI Learning Hub](https://awesome-copilot.github.com/learning-hub/)  
+- [GitHub Agentic Workflows](https://github.github.com/gh-aw/)  
+- [GitHub Copilot Certification Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification)  
 
 Contact me at https://www.scaling-guacamole.com/

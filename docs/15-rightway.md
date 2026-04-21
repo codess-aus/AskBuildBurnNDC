@@ -1,6 +1,6 @@
 ![Chapter 15 Hero](images/16-AIUsage.png)
 
-“After all the demos, I want to land on principles, because the real risk with AI is not that it is powerful. It is that it is easy to use poorly.
+After all the demos, I want to land on principles, because the real risk with AI is not that it is powerful. It is that it is easy to use poorly.
 
 So this slide is my checklist for the right way to use AI.
 
@@ -20,4 +20,4 @@ Step two: apply and experiment. Try it yourself. Break it in a safe environment.
 Step three: ask humans, but come with context. Bring what you tried, what you observed, and what you still do not understand. That makes mentorship cheaper and higher quality.  
 Step four: teach others. If you can explain it, you own it. And it lifts the entire team.
 
-This is how AI reduces burnout without lowering standards: it makes learning and progress cheaper, while keeping ownership and judgment exactly where it belongs, with you.”
+This is how AI reduces burnout without lowering standards: it makes learning and progress cheaper, while keeping ownership and judgment exactly where it belongs, with you.

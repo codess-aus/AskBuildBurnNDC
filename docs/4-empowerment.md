@@ -1,6 +1,6 @@
 ![Chapter 4 Hero](images/4-friendNotFoe.png)
 
-“Alright, now I want to reframe the narrative.
+Alright, now I want to reframe the narrative.
 
 We have been told, loudly and repeatedly, that AI will replace developers. And I get why that story sticks. It taps into very real fear, especially when you are already overloaded.
 
@@ -19,4 +19,4 @@ This is the one that surprised me. AI can bridge the gap between juniors and sen
 
 So the message of this slide is simple: this is not about replacement. It is about empowerment.
 
-And from here on, we are going to get very practical about how to use AI in a way that builds better software and reduces burnout, without sacrificing craft, security, or trust.”
+And from here on, we are going to get very practical about how to use AI in a way that builds better software and reduces burnout, without sacrificing craft, security, or trust.

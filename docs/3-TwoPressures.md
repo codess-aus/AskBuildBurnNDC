@@ -1,6 +1,6 @@
 ![Chapter 3 Hero](images/3-Debt.png)
 
-“On this slide I want to name two pressures that look different, but reinforce each other: learning debt and delivery debt.
+On this slide I want to name two pressures that look different, but reinforce each other: learning debt and delivery debt.
 
 First, learning debt. This is what happens when juniors are overwhelmed and the environment makes questions feel risky. Imposter syndrome is real, and the fear of asking a ‘dumb question’ creates silence.
 But silence does not mean there are no questions. It just means people are guessing. And every guess that goes uncorrected becomes a little pocket of learning debt that compounds over time.
@@ -14,4 +14,4 @@ And that is where burnout accelerates. Not because seniors cannot do the work, b
 These two pressures feed each other. When juniors do not feel safe asking early, seniors get pulled in later, under higher urgency, with more mess to untangle. Then everyone learns that asking questions slows things down, so they ask even less. The loop repeats.
 
 The good news is the same intervention helps both sides: normalize questions early, make them cheap, make them specific, and make it a team habit.
-When we ‘ask more’ at the right moments, we reduce learning debt, reduce delivery debt, and we protect the people who hold the system together.”
+When we ‘ask more’ at the right moments, we reduce learning debt, reduce delivery debt, and we protect the people who hold the system together.

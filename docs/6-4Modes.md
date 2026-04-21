@@ -1,6 +1,6 @@
 ![Chapter 6 Hero](images/6-4modes.png)
 
-“Now that we have rule zero, here’s the system I use to make AI actually reduce mental load instead of adding to it.
+Now that we have rule zero, here’s the system I use to make AI actually reduce mental load instead of adding to it.
 
 Four modes, one mission: reduce your mental load.
 
@@ -19,4 +19,4 @@ This is the quick one. You already know what you want. You just want the change 
 The mental model is the key point: do not just ‘use AI.’ Choose the mode that matches the moment.
 When the mode matches the task, you get speed and quality. When the mode is wrong, you get more noise, more review burden, and more burnout.
 
-Next, I’ll show you how to prompt for each mode so you get reliable results and you stay in control.”
+Next, I’ll show you how to prompt for each mode so you get reliable results and you stay in control.

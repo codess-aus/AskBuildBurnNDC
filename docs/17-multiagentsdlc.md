@@ -1,6 +1,6 @@
 ![Chapter 17 Hero](images/18-multiagentDemo.png)
 
-“Demo 5 is Multi Agent SDLC, and this is where wave 3 becomes real.
+Demo 5 is Multi Agent SDLC, and this is where wave 3 becomes real.
 
 The burnout driver we are addressing here is simple: one engineer cannot safely parallelize everything that modern software demands. Security checks, API contracts, regression hardening, tests, documentation, release notes. If we try to do it all sequentially, we go slow. If we try to do it all at once in our own head, we burn out.
 
@@ -14,7 +14,7 @@ Then they run targeted tests, handle failures, and self correct before they deli
 
 And throughout all of this, you remain in control. The output stays branch scoped. The changes are inspectable. And the final merge is still a human decision.
 
-Alright, let’s switch to VS Code and I’ll show what multi agent work looks like when it is safe, boring, and repeatable.”
+Alright, let’s switch to VS Code and I’ll show what multi agent work looks like when it is safe, boring, and repeatable.
 
 ## Video Demonstration
 

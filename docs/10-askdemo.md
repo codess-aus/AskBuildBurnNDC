@@ -1,6 +1,6 @@
 ![Chapter 10 Hero](images/11-Askdemo.png)
 
-“Alright, Demo 2 is called ‘Ask the Duck.’
+Alright, Demo 2 is called ‘Ask the Duck.’
 
 If you have ever done rubber duck debugging, you already know the trick: sometimes the fastest way to solve a problem is to explain it out loud, step by step, until the bug cannot hide anymore.
 
@@ -12,7 +12,7 @@ I’ll show three things: First, how quickly Ask Mode can identify what is wrong
 Second, how it explains why it is a problem, not just what to change.
 And third, how you can ask it to explain at different levels, including ‘explain it like I’m five,’ so you can build understanding, not dependency.
 
-Alright, let’s jump into VS Code and ask the duck.”
+Alright, let’s jump into VS Code and ask the duck.
 
 ## Video Demonstration
 

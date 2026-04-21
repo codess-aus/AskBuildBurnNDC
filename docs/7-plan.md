@@ -1,6 +1,6 @@
 ![Chapter 7 Hero](images/7-Plan.png)
 
-“Mode one is Plan Mode, and the goal is simple: reduce decision fatigue.
+Mode one is Plan Mode, and the goal is simple: reduce decision fatigue.
 
 We all know this feeling. By the end of a long day, even choosing where to start on a new feature feels overwhelming. You open the repo, you open an issue, and your brain just goes… blank. That blank page paralysis is not laziness. It is cognitive load.
 
@@ -18,4 +18,4 @@ That way, planning is not just ‘make a plan.’ It is ‘make a plan that matc
 
 And the payoff is the chain at the bottom: less ambiguity leads to less rework, and less rework leads to less burnout.
 
-Next I’ll show you what to actually say in plan mode so you get a useful plan, not a vague checklist.”
+Next I’ll show you what to actually say in plan mode so you get a useful plan, not a vague checklist.
