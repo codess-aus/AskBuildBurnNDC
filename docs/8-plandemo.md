@@ -20,4 +20,4 @@ And finally I’ll point out where Spec Kit fits, because the fastest way to kee
 
 Alright, let’s switch over to VS Code and walk through it.”
 
-<add demo1 video here>
+https://github.com/codess-aus/AskBuildBurnNDC/blob/9bf7e53dbf91dbc2f82b887811744fe222d9dd13/videos/Demo%201%20-%20Plan%20v2.mp4
