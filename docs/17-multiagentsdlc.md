@@ -16,4 +16,4 @@ And throughout all of this, you remain in control. The output stays branch scope
 
 Alright, let’s switch to VS Code and I’ll show what multi agent work looks like when it is safe, boring, and repeatable.”
 
-<add agentic video here>
+https://github.com/codess-aus/AskBuildBurnNDC/blob/0ddc7a861509d0f97030fbbd409eb9b71be7a296/videos/Demo5%20-%20autonomous%20(small).mp4
