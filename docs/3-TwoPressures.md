@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/e2594aa182713683f9edb05d7a3efbd98e50b977/images/3-Debt.png
+
 “On this slide I want to name two pressures that look different, but reinforce each other: learning debt and delivery debt.
 
 First, learning debt. This is what happens when juniors are overwhelmed and the environment makes questions feel risky. Imposter syndrome is real, and the fear of asking a ‘dumb question’ creates silence.
