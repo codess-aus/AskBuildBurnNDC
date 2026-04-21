@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/8cf4f033bb279b149becc2f89309112ddd711519/images/19-culture.png
+
 “At this point we have talked a lot about tools, but the real unlock is culture.
 
 Because the best AI workflow in the world will not save a team where people are afraid to ask questions.
