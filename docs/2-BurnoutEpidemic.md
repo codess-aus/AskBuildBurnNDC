@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/cb46716674a91d818df9c2d14ea77d70177baffe/images/2-burnout.png
+
 “Before we talk about tactics, we need to name the problem.
 
 This is the crisis: burnout is not rare, it is common. This slide cites 76 percent of employees experiencing burnout. Even if your number is lower on your team, the direction is clear. People are tired, and it shows up in quality, retention, and how safe it feels to take risks.
