@@ -20,4 +20,4 @@ Throughout the demo, watch for the control points. I can pause it, I can redirec
 
 Alright, let’s switch to VS Code and run the fleet.”
 
-<add agent demo video here>
+https://github.com/codess-aus/AskBuildBurnNDC/blob/bc6e19a60c06e2c19cd6e5a86b85fe7543996779/videos/Demo%203%20-%20Agent%20Mode%20(smaller).mp4
