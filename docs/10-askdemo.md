@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/94250752ebd2cd15fb4953058176015d22703759/images/10-ask.png
+https://github.com/codess-aus/AskBuildBurnNDC/blob/4ddfb09d3a1c077556481358a95a9bec68afbe4b/images/11-Askdemo.png
 
 “Alright, Demo 2 is called ‘Ask the Duck.’
 
