@@ -1,14 +1,14 @@
-/* ── Font: Inter from Google Fonts (widely supported, modern) ── */
+/* ── Fonts ── */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
-  --md-text-font: 'Inter', system-ui, -apple-system, sans-serif;
+  --md-text-font: 'Inter', system-ui, sans-serif;
   --md-code-font: 'JetBrains Mono', ui-monospace, monospace;
 }
 
 body, .md-typeset, .md-nav, .md-header__title, .md-footer,
 .md-search__input, button {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+  font-family: 'Inter', system-ui, sans-serif !important;
 }
 
 .md-typeset code, .md-typeset pre, pre code {
@@ -16,25 +16,25 @@ body, .md-typeset, .md-nav, .md-header__title, .md-footer,
   font-size: 0.85em;
 }
 
-/* ── Hero images: full-width, constrained height ── */
+/* ── Hero images on chapter pages ── */
 .md-typeset img[alt*="Hero"] {
   width: 100%;
   max-height: 420px;
   object-fit: cover;
   border-radius: 12px;
   margin: 0 0 2rem 0;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
   display: block;
 }
 
-/* ── Videos ── */
+/* ── Videos: full column width, tall ── */
 .md-typeset video {
   width: 100%;
-  max-width: 800px;
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  min-height: 400px;
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
   display: block;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   background: #000;
 }
 
@@ -48,18 +48,227 @@ body, .md-typeset, .md-nav, .md-header__title, .md-footer,
   font-size: 1.05em;
 }
 
-/* ── Code blocks ── */
-.md-typeset pre {
-  border-radius: 8px;
-}
+.md-typeset pre { border-radius: 8px; }
 
-/* ── Tables ── */
 .md-typeset table:not([class]) th {
   background-color: var(--md-primary-fg-color);
   color: var(--md-primary-bg-color);
 }
 
-/* ── Headings ── */
-.md-typeset h1 { font-weight: 700; }
-.md-typeset h2 { font-weight: 600; }
-.md-typeset h3 { font-weight: 600; }
+/* ══════════════════════════════════════
+   HOME PAGE — Scaling Guacamole style
+   ══════════════════════════════════════ */
+
+/* Hero banner */
+.home-hero {
+  width: 100%;
+  min-height: 280px;
+  background: linear-gradient(135deg, #1a0a2e 0%, #2d1b5e 50%, #1a0a2e 100%);
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(120, 60, 220, 0.3) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(80, 40, 180, 0.3) 0%, transparent 60%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  margin: -0.8rem -0.8rem 0 -0.8rem;
+}
+
+.home-hero-overlay {
+  max-width: 700px;
+}
+
+.home-title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem) !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+  margin: 0 0 0.75rem 0 !important;
+  line-height: 1.2 !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.home-subtitle {
+  font-size: 1.1rem;
+  color: rgba(255,255,255,0.8);
+  margin: 0 0 1.5rem 0;
+}
+
+.home-subtitle a {
+  color: #c4b5fd;
+  text-decoration: none;
+}
+
+.home-btn {
+  display: inline-block;
+  background: rgba(255,255,255,0.15);
+  border: 2px solid rgba(255,255,255,0.4);
+  color: #fff !important;
+  text-decoration: none !important;
+  padding: 0.6rem 1.6rem;
+  border-radius: 30px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.home-btn:hover {
+  background: rgba(255,255,255,0.25);
+  border-color: rgba(255,255,255,0.7);
+}
+
+/* Card grid */
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 2.5rem 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Individual card */
+.chapter-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(0,0,0,0.1));
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none !important;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.chapter-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.15);
+  text-decoration: none !important;
+}
+
+.card-img-wrap {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.card-img-wrap img {
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 200px !important;
+  object-fit: cover !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  display: block;
+}
+
+.card-body {
+  padding: 1.25rem 1.25rem 1rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.card-tag {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--md-primary-fg-color);
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.chapter-card h3 {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  color: var(--md-default-fg-color) !important;
+  margin: 0 0 0.6rem 0 !important;
+  line-height: 1.35 !important;
+}
+
+.chapter-card p {
+  font-size: 0.875rem;
+  color: var(--md-default-fg-color--light);
+  margin: 0 0 auto 0;
+  line-height: 1.55;
+  flex: 1;
+}
+
+.card-read {
+  display: block;
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--md-primary-fg-color);
+}
+
+/* About section */
+.about-section {
+  background: var(--md-code-bg-color);
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  margin: 1rem 0 2rem;
+}
+
+.about-inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.about-inner h2 {
+  font-size: 1.6rem !important;
+  font-weight: 700 !important;
+  margin: 0 0 0.5rem 0 !important;
+  border: none !important;
+}
+
+.about-inner p, .about-inner li {
+  color: var(--md-default-fg-color--light);
+  line-height: 1.7;
+}
+
+.about-inner ul {
+  margin: 1rem 0;
+  padding-left: 1.25rem;
+}
+
+.about-inner li {
+  margin-bottom: 0.5rem;
+}
+
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.about-links a {
+  padding: 0.45rem 1.1rem;
+  border-radius: 20px;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color) !important;
+  text-decoration: none !important;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: opacity 0.2s;
+}
+
+.about-links a:hover {
+  opacity: 0.85;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+    padding: 1.5rem 0;
+  }
+  .home-hero {
+    padding: 3rem 1.25rem;
+  }
+}
