@@ -14,4 +14,4 @@ And third, how you can ask it to explain at different levels, including ‘expla
 
 Alright, let’s jump into VS Code and ask the duck.”
 
-<add the askdemo video here>
+https://github.com/codess-aus/AskBuildBurnNDC/blob/d25a49207f5d3ca3b60772ee7e7e42f60bfb8030/videos/Demo2%20-%20Ask%20(smaller).mp4
