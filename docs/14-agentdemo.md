@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/6cbab8381814793d2018e6876319a03875ddc6da/images/15-Agentdemo.png
+
 “Alright, Demo 3 is called ‘The Fleet,’ and it is Agent Mode in action.
 
 This demo is aimed at a very specific burnout driver: expanded scope and unmanageable workload. That moment where a request sounds reasonable, but the minute you start, you realize it touches everything.
