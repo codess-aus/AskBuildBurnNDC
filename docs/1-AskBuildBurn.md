@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/7866b0a33d1db08a365bf1e63b98b75dd3072263/images/1-askbuildburn.png
+
 “Hi everyone, I’m Michelle Sandford. Thanks for being here at NDC Sydney.
 
 This talk is called ‘Ask More. Build Better. Burn Out Less.’ and it’s based on a simple idea: the fastest teams are not the ones that type the most, they’re the ones that reduce uncertainty early.
