@@ -13,3 +13,5 @@ Then they run targeted tests, handle failures, and self correct before they deli
 And throughout all of this, you remain in control. The output stays branch scoped. The changes are inspectable. And the final merge is still a human decision.
 
 Alright, let’s switch to VS Code and I’ll show what multi agent work looks like when it is safe, boring, and repeatable.”
+
+<add agentic video here>
