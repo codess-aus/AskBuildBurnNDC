@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/6dd9d0da55b9323f7a205cb108ba8d5c6187d2c2/images/5-Rule0.png
+![Chapter 5 Hero](../images/5-Rule0.png)
 
 “Before we go any further, we need one grounding principle. Rule zero: you own the code.
 

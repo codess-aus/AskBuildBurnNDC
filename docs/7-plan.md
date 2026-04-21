@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/ce77f798669deb91792a1185fce8893c3331d27c/images/7-Plan.png
+![Chapter 7 Hero](../images/7-Plan.png)
 
 “Mode one is Plan Mode, and the goal is simple: reduce decision fatigue.
 
@@ -19,4 +19,3 @@ That way, planning is not just ‘make a plan.’ It is ‘make a plan that matc
 And the payoff is the chain at the bottom: less ambiguity leads to less rework, and less rework leads to less burnout.
 
 Next I’ll show you what to actually say in plan mode so you get a useful plan, not a vague checklist.”
-

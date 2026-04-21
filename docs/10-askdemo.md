@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/4ddfb09d3a1c077556481358a95a9bec68afbe4b/images/11-Askdemo.png
+![Chapter 10 Hero](../images/11-Askdemo.png)
 
 “Alright, Demo 2 is called ‘Ask the Duck.’
 
@@ -14,4 +14,30 @@ And third, how you can ask it to explain at different levels, including ‘expla
 
 Alright, let’s jump into VS Code and ask the duck.”
 
-https://github.com/codess-aus/AskBuildBurnNDC/blob/d25a49207f5d3ca3b60772ee7e7e42f60bfb8030/videos/Demo2%20-%20Ask%20(smaller).mp4
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/Demo2 - Ask (smaller).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

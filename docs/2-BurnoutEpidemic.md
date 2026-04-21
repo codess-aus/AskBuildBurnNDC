@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/cb46716674a91d818df9c2d14ea77d70177baffe/images/2-burnout.png
+![Chapter 2 Hero](../images/2-burnout.png)
 
 “Before we talk about tactics, we need to name the problem.
 

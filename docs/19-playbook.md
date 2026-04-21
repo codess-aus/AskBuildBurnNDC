@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/2ed0415b863af54bb733a5f70ba9711c8e81997e/images/20-playbook.png
+![Chapter 19 Hero](../images/20-playbook.png)
 
 “This is your quick reference slide, because the same tool gives different superpowers depending on where you sit.
 

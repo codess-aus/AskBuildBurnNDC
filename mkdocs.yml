@@ -1,0 +1,75 @@
+site_name: Ask Build Burn Less - NDC Talks
+site_description: Reducing uncertainty, building better, burning out less
+site_url: https://codess-aus.github.io/AskBuildBurnNDC/
+repo_url: https://github.com/codess-aus/AskBuildBurnNDC
+repo_name: AskBuildBurnNDC
+
+theme:
+  name: material
+  custom_dir: theme
+  font:
+    text: OpenDyslexic
+    code: Roboto Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - offline
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - toc
+  - tables
+  - attr_list
+  - md_in_html
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: index.md
+  - Chapter 1: 1-AskBuildBurn.md
+  - Chapter 2: 2-BurnoutEpidemic.md
+  - Chapter 3: 3-TwoPressures.md
+  - Chapter 4: 4-empowerment.md
+  - Chapter 5: 5-rulezero.md
+  - Chapter 6: 6-4Modes.md
+  - Chapter 7: 7-plan.md
+  - Chapter 8: 8-plandemo.md
+  - Chapter 9: 9-ask.md
+  - Chapter 10: 10-askdemo.md
+  - Chapter 11: 11.Mentoring.md
+  - Chapter 12: 12-agent.md
+  - Chapter 13: 13-agentexamples.md
+  - Chapter 14: 14-agentdemo.md
+  - Chapter 15: 15-rightway.md
+  - Chapter 16: 16-waves.md
+  - Chapter 17: 17-multiagentsdlc.md
+  - Chapter 18: 18-culture.md
+  - Chapter 19: 19-playbook.md
+  - Chapter 20: 20-actionplan.md
+  - Chapter 21: 21-takeways.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/codess-aus
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com

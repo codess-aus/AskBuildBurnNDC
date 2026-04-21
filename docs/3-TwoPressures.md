@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/e2594aa182713683f9edb05d7a3efbd98e50b977/images/3-Debt.png
+![Chapter 3 Hero](../images/3-Debt.png)
 
 “On this slide I want to name two pressures that look different, but reinforce each other: learning debt and delivery debt.
 

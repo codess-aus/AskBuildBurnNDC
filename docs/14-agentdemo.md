@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/6cbab8381814793d2018e6876319a03875ddc6da/images/15-Agentdemo.png
+![Chapter 14 Hero](../images/15-Agentdemo.png)
 
 “Alright, Demo 3 is called ‘The Fleet,’ and it is Agent Mode in action.
 
@@ -20,4 +20,30 @@ Throughout the demo, watch for the control points. I can pause it, I can redirec
 
 Alright, let’s switch to VS Code and run the fleet.”
 
-https://github.com/codess-aus/AskBuildBurnNDC/blob/bc6e19a60c06e2c19cd6e5a86b85fe7543996779/videos/Demo%203%20-%20Agent%20Mode%20(smaller).mp4
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/Demo 3 - Agent Mode (smaller).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/22beb2a1997f67bf91025353643f9f1ff0560d9b/images/21-action.png
+![Chapter 20 Hero](../images/21-action.png)
 
 “Alright, let’s turn all of this into an action plan you can take back to work.
 

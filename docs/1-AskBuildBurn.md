@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/7866b0a33d1db08a365bf1e63b98b75dd3072263/images/1-askbuildburn.png
+![Chapter 1 Hero](../images/1-askbuildburn.png)
 
 “Hi everyone, I’m Michelle Sandford. Thanks for being here at NDC Sydney.
 

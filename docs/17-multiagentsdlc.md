@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/1960440492020a9a4f79ea90b69d00f902a115c1/images/18-multiagentDemo.png
+![Chapter 17 Hero](../images/18-multiagentDemo.png)
 
 “Demo 5 is Multi Agent SDLC, and this is where wave 3 becomes real.
 
@@ -16,4 +16,30 @@ And throughout all of this, you remain in control. The output stays branch scope
 
 Alright, let’s switch to VS Code and I’ll show what multi agent work looks like when it is safe, boring, and repeatable.”
 
-https://github.com/codess-aus/AskBuildBurnNDC/blob/0ddc7a861509d0f97030fbbd409eb9b71be7a296/videos/Demo5%20-%20autonomous%20(small).mp4
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Video Demonstration
+
+<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
+  <source src="../videos/Demo5 - autonomous (small).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

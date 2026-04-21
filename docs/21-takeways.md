@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/be6081259301dcbb162a3ffe855223810ca35c16/images/22-thrive.png
+![Chapter 21 Hero](../images/22-thrive.png)
 
 “As we wrap up, I want to leave you with a simple message.
 
@@ -26,4 +26,3 @@ https://github.github.com/gh-aw/
 https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification
 
 Contact me at https://www.scaling-guacamole.com/
-

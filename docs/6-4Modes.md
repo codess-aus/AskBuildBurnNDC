@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/f1c2d4100e3422af38de80d3030456dde84d1f73/images/6-4modes.png
+![Chapter 6 Hero](../images/6-4modes.png)
 
 “Now that we have rule zero, here’s the system I use to make AI actually reduce mental load instead of adding to it.
 

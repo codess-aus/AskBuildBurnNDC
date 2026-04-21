@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %} - Ask Build Burn Less</title>
+    <link rel="stylesheet" href="{{ base_url }}/stylesheets/main.css">
+    
+    <!-- OpenDyslexic Font -->
+    <link href='https://fonts.googleapis.com/css?family=OpenDyslexic' rel='stylesheet' type='text/css'>
+    
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <div class="site-wrapper">
+        {% block header %}
+        <header class="site-header">
+            <div class="header-content">
+                <a href="{{ base_url }}" class="site-title">
+                    <span class="title-text">Ask Build Burn Less</span>
+                </a>
+                <nav class="main-nav">
+                    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+                        <span class="material-icons">brightness_4</span>
+                    </button>
+                </nav>
+            </div>
+        </header>
+        {% endblock %}
+
+        <main class="site-content">
+            {% block content %}{% endblock %}
+        </main>
+
+        {% block footer %}
+        <footer class="site-footer">
+            <div class="footer-content">
+                <p>&copy; 2024 Michelle Sandford. Built with <a href="https://www.mkdocs.org/">MkDocs</a></p>
+                <p><a href="https://github.com/codess-aus/AskBuildBurnNDC">View on GitHub</a></p>
+            </div>
+        </footer>
+        {% endblock %}
+    </div>
+
+    <script src="{{ base_url }}/js/theme.js"></script>
+    <script src="{{ base_url }}/js/main.js"></script>
+</body>
+</html>

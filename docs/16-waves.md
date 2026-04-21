@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/981ca17b9e9745e99dc77267115b866a7ad3565e/images/17-waves.png
+![Chapter 16 Hero](../images/17-waves.png)
 
 “This slide is about the evolution of AI assisted development, because the way we should use these tools depends on which wave we are in.
 

@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/4f9ff3214f15d499cf8cdd3bab77b0a71cc772b0/images/4-friendNotFoe.png
+![Chapter 4 Hero](../images/4-friendNotFoe.png)
 
 “Alright, now I want to reframe the narrative.
 

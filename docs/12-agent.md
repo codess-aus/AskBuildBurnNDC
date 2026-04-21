@@ -1,4 +1,4 @@
-https://github.com/codess-aus/AskBuildBurnNDC/blob/ccd09cfb5228ddf389e20db98d9970d850f52b61/images/13-agent.png
+![Chapter 12 Hero](../images/13-agent.png)
 
 “Alright, we have covered Plan Mode and Ask Mode. Now let’s meet Agent Mode.
 
