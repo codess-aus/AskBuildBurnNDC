@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/189be3906cc4eac9dea1401ee12c75a021dccfd0/images/14-agentexamples.png
+
 “This slide is here to make Agent Mode concrete.
 
 Agent Mode is not just ‘write me some code.’ It is a workflow accelerator for the kinds of tasks senior engineers do all the time, the ones that are important, cross cutting, and honestly a bit exhausting.
