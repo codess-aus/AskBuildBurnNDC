@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/4f9ff3214f15d499cf8cdd3bab77b0a71cc772b0/images/4-friendNotFoe.png
+
 “Alright, now I want to reframe the narrative.
 
 We have been told, loudly and repeatedly, that AI will replace developers. And I get why that story sticks. It taps into very real fear, especially when you are already overloaded.
