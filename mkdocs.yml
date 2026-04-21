@@ -6,39 +6,47 @@ repo_name: AskBuildBurnNDC
 
 theme:
   name: material
-  custom_dir: theme
-  font:
-    text: OpenDyslexic
-    code: Roboto Mono
+  font: false
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: light
-      primary: indigo
-      accent: indigo
+      scheme: default
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - navigation.top
+    - navigation.instant
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/main.js
 
 plugins:
   - search
-  - offline
 
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.details
   - toc
   - tables
   - attr_list
   - md_in_html
+
 
 docs_dir: docs
 site_dir: site
