@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/1960440492020a9a4f79ea90b69d00f902a115c1/images/18-multiagentDemo.png
+
 “Demo 5 is Multi Agent SDLC, and this is where wave 3 becomes real.
 
 The burnout driver we are addressing here is simple: one engineer cannot safely parallelize everything that modern software demands. Security checks, API contracts, regression hardening, tests, documentation, release notes. If we try to do it all sequentially, we go slow. If we try to do it all at once in our own head, we burn out.
