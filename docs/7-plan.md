@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/ce77f798669deb91792a1185fce8893c3331d27c/images/7-Plan.png
+
 “Mode one is Plan Mode, and the goal is simple: reduce decision fatigue.
 
 We all know this feeling. By the end of a long day, even choosing where to start on a new feature feels overwhelming. You open the repo, you open an issue, and your brain just goes… blank. That blank page paralysis is not laziness. It is cognitive load.
