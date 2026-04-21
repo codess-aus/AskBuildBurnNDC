@@ -23,27 +23,6 @@ Alright, let’s switch over to VS Code and walk through it.”
 ## Video Demonstration
 
 <video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/Demo 1 - Plan v2.mp4" type="video/mp4">
+  <source src="videos/Demo 1 - Plan v2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

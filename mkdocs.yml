@@ -33,6 +33,11 @@ extra_css:
 extra_javascript:
   - javascripts/main.js
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/codess-aus
+
 plugins:
   - search
 

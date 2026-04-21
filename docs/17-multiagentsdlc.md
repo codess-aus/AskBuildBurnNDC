@@ -19,27 +19,6 @@ Alright, let’s switch to VS Code and I’ll show what multi agent work looks l
 ## Video Demonstration
 
 <video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/Demo5 - autonomous (small).mp4" type="video/mp4">
+  <source src="videos/Demo5 - autonomous (small).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

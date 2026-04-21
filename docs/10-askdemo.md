@@ -17,27 +17,6 @@ Alright, let’s jump into VS Code and ask the duck.”
 ## Video Demonstration
 
 <video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Demonstration
-
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="../videos/Demo2 - Ask (smaller).mp4" type="video/mp4">
+  <source src="videos/Demo2 - Ask (smaller).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
