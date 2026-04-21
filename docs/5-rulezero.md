@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/6dd9d0da55b9323f7a205cb108ba8d5c6187d2c2/images/5-Rule0.png
+
 “Before we go any further, we need one grounding principle. Rule zero: you own the code.
 
 AI can help you move faster, but it cannot take responsibility for what ships. If it introduces a bug, a security issue, a licensing problem, or a design mess, it does not matter that the suggestion came from a tool. The accountability still sits with us.
