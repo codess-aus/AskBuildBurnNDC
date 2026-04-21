@@ -1,4 +1,4 @@
-![Chapter 9 Hero](../images/10-ask.png)
+![Chapter 9 Hero](images/10-ask.png)
 
 “Next up is Ask Mode, and I want to position it clearly: this is a judgment free space for learning.
 

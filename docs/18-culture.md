@@ -1,4 +1,4 @@
-![Chapter 18 Hero](../images/19-culture.png)
+![Chapter 18 Hero](images/19-culture.png)
 
 “At this point we have talked a lot about tools, but the real unlock is culture.
 

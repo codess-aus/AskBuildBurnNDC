@@ -1,4 +1,4 @@
-![Chapter 3 Hero](../images/3-Debt.png)
+![Chapter 3 Hero](images/3-Debt.png)
 
 “On this slide I want to name two pressures that look different, but reinforce each other: learning debt and delivery debt.
 

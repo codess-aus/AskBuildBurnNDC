@@ -1,4 +1,4 @@
-![Chapter 4 Hero](../images/4-friendNotFoe.png)
+![Chapter 4 Hero](images/4-friendNotFoe.png)
 
 “Alright, now I want to reframe the narrative.
 

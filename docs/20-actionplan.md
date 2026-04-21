@@ -1,4 +1,4 @@
-![Chapter 20 Hero](../images/21-action.png)
+![Chapter 20 Hero](images/21-action.png)
 
 “Alright, let’s turn all of this into an action plan you can take back to work.
 

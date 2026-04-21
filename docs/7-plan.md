@@ -1,4 +1,4 @@
-![Chapter 7 Hero](../images/7-Plan.png)
+![Chapter 7 Hero](images/7-Plan.png)
 
 “Mode one is Plan Mode, and the goal is simple: reduce decision fatigue.
 

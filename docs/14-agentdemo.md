@@ -1,4 +1,4 @@
-![Chapter 14 Hero](../images/15-Agentdemo.png)
+![Chapter 14 Hero](images/15-Agentdemo.png)
 
 “Alright, Demo 3 is called ‘The Fleet,’ and it is Agent Mode in action.
 
@@ -22,7 +22,7 @@ Alright, let’s switch to VS Code and run the fleet.”
 
 ## Video Demonstration
 
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="videos/Demo 3 - Agent Mode (smaller).mp4" type="video/mp4">
+<video controls autoplay loop muted playsinline style="width: 100%; border-radius: 8px;">
+  <source src="../videos/Demo%203%20-%20Agent%20Mode%20%28smaller%29.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

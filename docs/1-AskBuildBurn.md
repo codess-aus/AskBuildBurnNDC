@@ -1,4 +1,4 @@
-![Chapter 1 Hero](../images/1-askbuildburn.png)
+![Chapter 1 Hero](images/1-askbuildburn.png)
 
 “Hi everyone, I’m Michelle Sandford. Thanks for being here at NDC Sydney.
 

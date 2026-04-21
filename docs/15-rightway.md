@@ -1,4 +1,4 @@
-![Chapter 15 Hero](../images/16-AIUsage.png)
+![Chapter 15 Hero](images/16-AIUsage.png)
 
 “After all the demos, I want to land on principles, because the real risk with AI is not that it is powerful. It is that it is easy to use poorly.
 

@@ -1,4 +1,4 @@
-![Chapter 16 Hero](../images/17-waves.png)
+![Chapter 16 Hero](images/17-waves.png)
 
 “This slide is about the evolution of AI assisted development, because the way we should use these tools depends on which wave we are in.
 

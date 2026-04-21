@@ -1,4 +1,4 @@
-![Chapter 13 Hero](../images/14-agentexamples.png)
+![Chapter 13 Hero](images/14-agentexamples.png)
 
 “This slide is here to make Agent Mode concrete.
 

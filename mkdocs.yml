@@ -58,27 +58,27 @@ site_dir: site
 
 nav:
   - Home: index.md
-  - Chapter 1: 1-AskBuildBurn.md
-  - Chapter 2: 2-BurnoutEpidemic.md
-  - Chapter 3: 3-TwoPressures.md
-  - Chapter 4: 4-empowerment.md
-  - Chapter 5: 5-rulezero.md
-  - Chapter 6: 6-4Modes.md
-  - Chapter 7: 7-plan.md
-  - Chapter 8: 8-plandemo.md
-  - Chapter 9: 9-ask.md
-  - Chapter 10: 10-askdemo.md
-  - Chapter 11: 11.Mentoring.md
-  - Chapter 12: 12-agent.md
-  - Chapter 13: 13-agentexamples.md
-  - Chapter 14: 14-agentdemo.md
-  - Chapter 15: 15-rightway.md
-  - Chapter 16: 16-waves.md
-  - Chapter 17: 17-multiagentsdlc.md
-  - Chapter 18: 18-culture.md
-  - Chapter 19: 19-playbook.md
-  - Chapter 20: 20-actionplan.md
-  - Chapter 21: 21-takeways.md
+  - Ask More. Build Better. Burn Out Less.: 1-AskBuildBurn.md
+  - The Burnout Epidemic: 2-BurnoutEpidemic.md
+  - Two Pressures - Learning Debt & Delivery Debt: 3-TwoPressures.md
+  - AI - Friend, Not Foe: 4-empowerment.md
+  - Rule Zero - You Own the Code: 5-rulezero.md
+  - Four Modes, One Mission: 6-4Modes.md
+  - Plan Mode - Reduce Decision Fatigue: 7-plan.md
+  - "Demo: Plan Mode in Action": 8-plandemo.md
+  - Ask Mode - Judgment Free Learning: 9-ask.md
+  - "Demo: Ask the Duck": 10-askdemo.md
+  - The Mentor Loop: 11.Mentoring.md
+  - Agent Mode - Multi-Step Work: 12-agent.md
+  - Agent Mode in Practice: 13-agentexamples.md
+  - "Demo: The Fleet": 14-agentdemo.md
+  - The Right Way to Use AI: 15-rightway.md
+  - The Three Waves of AI: 16-waves.md
+  - "Demo: Multi-Agent SDLC": 17-multiagentsdlc.md
+  - Culture is the Real Unlock: 18-culture.md
+  - Your Playbook by Role: 19-playbook.md
+  - Your Action Plan: 20-actionplan.md
+  - Build Better. Support Each Other. Thrive.: 21-takeways.md
 
 extra:
   social:

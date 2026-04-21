@@ -1,4 +1,4 @@
-![Chapter 8 Hero](../images/9-Plandemo.png)
+![Chapter 8 Hero](images/9-Plandemo.png)
 
 “Alright, let’s make this real with a quick demo.
 
@@ -22,7 +22,7 @@ Alright, let’s switch over to VS Code and walk through it.”
 
 ## Video Demonstration
 
-<video controls autoplay loop muted playsinline style="width: 100%; max-width: 800px; border-radius: 8px;">
-  <source src="videos/Demo 1 - Plan v2.mp4" type="video/mp4">
+<video controls autoplay loop muted playsinline style="width: 100%; border-radius: 8px;">
+  <source src="../videos/Demo%201%20-%20Plan%20v2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

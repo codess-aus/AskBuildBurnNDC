@@ -1,4 +1,4 @@
-![Chapter 19 Hero](../images/20-playbook.png)
+![Chapter 19 Hero](images/20-playbook.png)
 
 “This is your quick reference slide, because the same tool gives different superpowers depending on where you sit.
 

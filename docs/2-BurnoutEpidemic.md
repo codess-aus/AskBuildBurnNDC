@@ -1,4 +1,4 @@
-![Chapter 2 Hero](../images/2-burnout.png)
+![Chapter 2 Hero](images/2-burnout.png)
 
 “Before we talk about tactics, we need to name the problem.
 

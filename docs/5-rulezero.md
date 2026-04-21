@@ -1,4 +1,4 @@
-![Chapter 5 Hero](../images/5-Rule0.png)
+![Chapter 5 Hero](images/5-Rule0.png)
 
 “Before we go any further, we need one grounding principle. Rule zero: you own the code.
 

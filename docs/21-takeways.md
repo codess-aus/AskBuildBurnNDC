@@ -1,4 +1,4 @@
-![Chapter 21 Hero](../images/22-thrive.png)
+![Chapter 21 Hero](images/22-thrive.png)
 
 “As we wrap up, I want to leave you with a simple message.
 
