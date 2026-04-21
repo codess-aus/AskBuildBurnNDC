@@ -1,6 +1,10 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/95f895e12fc75f791e1be8a1764e6cfb44a58408/images/9-Plandemo.png
+
 “Alright, let’s make this real with a quick demo.
 
 Here’s the scenario. You are mid flow, and you get a message like this from ‘The Boss’: ‘We need to add authentication to the orders API. OAuth2, JWT tokens, the usual. Can you scope it out today?’
+
+https://github.com/codess-aus/AskBuildBurnNDC/blob/95f895e12fc75f791e1be8a1764e6cfb44a58408/images/8-demo.png
 
 That sounds straightforward, but it is actually a perfect example of why decision fatigue happens. ‘The usual’ hides a lot of decisions: which OAuth flow, who is the identity provider, what claims do we need, what is the threat model, what endpoints are public, what is the rollout plan, what breaks if we get it wrong.
 
