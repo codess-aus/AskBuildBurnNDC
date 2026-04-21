@@ -16,8 +16,8 @@ Thank you for your time. If you want to chat afterwards, compare notes on prompt
 
 Resources:
 
-- [Awesome Copilot on GitHub](https://github.com/github/awesome-copilot)  
--[Awesome Copilot Webpage](https://awesome-copilot.github.com/)  
+- [Awesome Copilot on GitHub](https://github.com/github/awesome-copilot) 
+- [Awesome Copilot Webpage](https://awesome-copilot.github.com/)  
 - [GitHub Copilot SDK - Add Agents to Anything](https://github.com/github/copilot-sdk)  
 - [GitHub Copilot CLI](https://cli.github.com/)  
 - [GitHub Spec-Kit](https://github.com/github/spec-kit)  
@@ -25,4 +25,4 @@ Resources:
 - [GitHub Agentic Workflows](https://github.github.com/gh-aw/)  
 - [GitHub Copilot Certification Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification)  
 
-Contact me at https://www.scaling-guacamole.com/
+[Contact me](https://www.scaling-guacamole.com/)  
