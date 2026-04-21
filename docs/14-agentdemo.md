@@ -17,3 +17,5 @@ And finally, I’ll deliberately let a test fail, because this is where agent mo
 Throughout the demo, watch for the control points. I can pause it, I can redirect it, and I approve the risky steps. It is a fleet of assistants, but you are still the captain.
 
 Alright, let’s switch to VS Code and run the fleet.”
+
+<add agent demo video here>
