@@ -1,3 +1,5 @@
+https://github.com/codess-aus/AskBuildBurnNDC/blob/94250752ebd2cd15fb4953058176015d22703759/images/10-ask.png
+
 “Alright, Demo 2 is called ‘Ask the Duck.’
 
 If you have ever done rubber duck debugging, you already know the trick: sometimes the fastest way to solve a problem is to explain it out loud, step by step, until the bug cannot hide anymore.
