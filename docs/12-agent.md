@@ -6,6 +6,38 @@ Agent Mode is what you use when the work is not a single question and not a sing
 
 Think of it as your autonomous coding collaborator. You give it a goal, and it can plan, execute, and iterate from prompt to working code across multiple files.
 
+Agent Mode reduces burnout by taking the highest cognitive load parts of multi file work and turning them into a guided, verifiable workflow you still control.
+
+It Reduces context switching
+
+It can traverse files, follow call chains, and keep the “working set” in view
+You stop paying the mental tax of reopening tabs, reloading context, and reorienting every few minutes
+Shrinks “unknowns” early
+
+It proposes a plan, identifies dependencies, and surfaces missing decisions
+Less ambiguity means less rework and fewer late surprises
+Offloads repetitive mechanical labor
+
+Bulk refactors, consistent renames, updating deprecated APIs, boilerplate wiring
+You focus on the decisions and architecture, not the grind
+Keeps momentum through iteration
+
+It can make a change, run checks, respond to failures, and adjust
+That prevents the stop start rhythm that exhausts people
+Improves quality and confidence with verification
+
+Suggests tests, edge cases, and regression coverage as part of the change
+Fewer production fires means fewer after hours emergencies
+Protects seniors from becoming the default bottleneck
+
+More people can progress independently with a “second brain” that handles legwork
+Seniors spend more time on high leverage design and review, less on constant rescue missions
+Makes work feel bounded and controllable
+
+Clear acceptance criteria, clear diffs, clear rollback points
+Feeling in control is a direct antidote to burnout pressure
+Rule zero still applies: you review changes, run tests, and own the architecture, but Agent Mode reduces the mental load required to get from idea to verified code.
+
 Here are the kinds of problems it is great at.
 
 First: multi step task execution. If a change touches routing, auth, config, and docs, agent mode can walk the graph and keep track of the moving parts so you do not have to juggle everything in your head.
